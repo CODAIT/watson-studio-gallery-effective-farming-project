@@ -1,0 +1,15 @@
+Effective Farming - Monitor Crop Growth 
+The accelerator is created using Data Asset eXchange data to support effective farming by monitoring crop growth using crop guide and provide timely alert to farmers about weather change, possible development of crop disease, evaporation of fungicide, and efficient use of solar panels (agrivoltaics support).
+
+What's included?
+A structured business glossary of 90 business terms.
+Sample data science assets
+How does it work?
+The glossary provides the information architecture that you need to understand weather related business measures. Your data scientists can use the sample notebooks, predictive models and dashboards to accelerate data preparation, machine learning modeling, and data reporting. Moreover, the data scientists may modify the sample notebooks for other business use cases and corresponding datasets.
+
+Timely alert to farmers can save crop life and bring in more cost savings.
+
+When you import the accelerator:
+
+The terms are added to your business glossary under the Effective Farming - Monitor Crop Growth category in the Industry Accelerators category.
+The data science assets are added to a new analytics project.

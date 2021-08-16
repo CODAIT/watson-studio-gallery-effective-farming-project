@@ -1,1 +1,1 @@
-[TODO-add-a-meaningful-project-description-do-not-use-markdown]
+The notebooks teach the user to extract, clean and analyze sample weather data and predict weather trends to help airports schedule better flight times. This sample project contains 1 notebooks and 1 CSV file. Please run the notebooks in sequential order of their part numbers using a Python 3.7 runtime.
